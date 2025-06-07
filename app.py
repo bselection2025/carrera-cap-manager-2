@@ -13,7 +13,8 @@ SHEET_URL = "https://docs.google.com/spreadsheets/d/1zj53jmrEaWdOq4UR8aiNg24TrtL
 # --- AUTHENTICATION ---
 # Serve file JSON delle credenziali di servizio (da caricare su Streamlit Cloud come secret)
 scope = ["https://spreadsheets.google.com/feeds", 'https://www.googleapis.com/auth/spreadsheets', "https://www.googleapis.com/auth/drive.file", "https://www.googleapis.com/auth/drive"]
-creds = ServiceAccountCredentials.from_json_keyfile_name("gcreds.json", scope)
+import json
+creds = ServiceAccountCredentials.from_json_keyfile_dict(json.loads(st.secrets["gcreds"]), scope)
 client = gspread.authorize(creds)
 
 sheet = client.open_by_url(SHEET_URL)
