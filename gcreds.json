@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "carrera-cap-project",
+  "private_key_id": "656e7c11ef6abc6bf11db30a77539597586b4cca",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDVRUuT+xXmmdci\n9nAor4LbkneywQWxqSNlptYHQZhuVRHCyioi1V65BtGFl7PjGfmtpoBBUsVJHDGR\nVX+ZSoati0gQbduTE49OMS6KwlJPs6jK3CB5RktFD3d5tTZDPshSkzjrMwP8L7QQ\nByEIMAOqG7yH8DhU63cSqlqJO3xFXcgZqJMtjRE+ZMgrI9Ypa6GFwJalKTl0anQ8\n1bBFQZYh+FRgXggfUsfy4uWGY7Vk3r5P/IoATcSYMJBNT6AiMl219c8iaD9czYuv\nBZOzVVfnWFDSTTjebcjfVRat7TBEAaYMfrKi+5nbWHe/hZW+HLtvcNIEk3EYnhf6\n/EVWu0yxAgMBAAECggEAJ/r2VN6yR5lJ4yBDPOFQHPTrcwtr05cTT2xT/aa+mlpg\nur024nJQ8Es2rn5Wpul47KSEsRpA6Th7k1Ttl3FI55Ivd4L8sWjuibg/ExykHRRf\nPW5AOTPkCuWAHoUJz9fealp2hmL5KYbQ0NthRh1oJnTOJkaybLr6hrmAQO8xl/gJ\nx4Zn6n4KBH2kKRAtVRQ3wpXK4P3dRf8aEMiOLzK306qSvM8QV/jvHnd/nJ8Zy3o9\nTqI23LEzbddNUgj+f9e0DmSV7oRnexiwnH9LFavZoU16Fbe7xlp5YTFKOAGaqY+w\ntfllqhqi5sjXFoiBvysVT+BncukSCuvGKUX/LHq7JQKBgQD0d5H9n213aQ9TUIGv\nGWhG8qOXmuHESv66RJgK6+fdk0zVU2Iak4/GvjGmt3IVin/it/DrNQ+LgonT8Yrw\nm5N1nHuM0JY67EfTlP63Q2mSlINZO+zy+3NW+asq7Ed6b6bnC/NrVEpwOAq/7PIN\naVfxMh2k7c7YLsUiZIlDWh9iZQKBgQDfVPdQZ2yxZPICDX68oFMvLMvrboLb3aTW\n+4vShMhG8KCfDcew82UMUGiVpl/sIty9T01t5siC644yWNWJdwptreR1kQHasTqC\nIn/EVaWNwhRHJ7wOOpKOc3JUSk0PcQGKs+HGn1IBJdPhdTP7sT4IBxomA2zruHD0\nRiJmfXJ2XQKBgQDY0KM+GQNxAFCDR8d8kEAXjGLito69FPZOJT/jj84Yied+23EK\nuQyu60gF4HTh/e/mF9UoBes/hArRWkwrkQ97I8m/3c8feydI08AEsVkUk3razXcd\nGT32SYAxlVTfld6k08iTzDIozMtb5L3YfzFrzVLVT8Q/n1tfYWMLxQZIsQKBgE5X\n8gIEpf582OCbd1AYNdYgstA+Di2uzPqVd3E8Hz2zf8UMAncyisoNEwMcQB4IBMNs\nJE9fXAuBMnq66v20AraC/9e2LJ5Y+ZtZGtT27oKSCKcFa1Taezr5iKvE/M9j5xSP\nEa6piQzaBj/a64dpn8cVJrkbDoSKSSWHzN2DODoJAoGAJks9VTpL7hfnnDsObYnx\nfIu6NxiucWtE0cn/OHxOZAnoVjUbQyWln6U/cukOaCu25kcL1vPVWP/a8dUtHKNp\n9x+jTp+iw4bPC/U6cgkgpbnrxpo6t2yAJ1IHkrndUGpN8EiI4OeuGKU9UOIsHb9m\niHqReXcYkEhX5WQOZlkTAqI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "streamlit-cap@carrera-cap-project.iam.gserviceaccount.com",
+  "client_id": "115581289246472773298",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/streamlit-cap%40carrera-cap-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
